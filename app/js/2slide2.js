@@ -1,0 +1,3 @@
+var picture = {
+    picture1:
+}
